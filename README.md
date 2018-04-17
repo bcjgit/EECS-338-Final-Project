@@ -1,6 +1,6 @@
 # EECS-338-Final-Project
 
-## Power iteration for lage dense matrices using multiple GPUs
+## Power iteration for large dense matrices using multiple GPUs
 
 The idea here is the following:
 
